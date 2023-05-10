@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Mayara Sincero 😁
+## Bem-vindo(a) ao perfil da Mayara Sincero 🤓
 
  <div>
    <a href="https://github.com/mayarasincero13">
@@ -21,6 +21,6 @@
    <a href = "mailto:sincero.mayara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mayara-sincero-6716a75a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mayarasincero13/mayarasincero13/blob/output/github-contribution-grid-snake.svg)
 
 </div>

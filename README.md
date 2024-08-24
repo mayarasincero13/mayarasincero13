@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/mayara-sincero?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:sincero.mayara@gmail.com?subject=Assunto%20do%20E-mail&body=Corpo%20do%20E-mail" target="_blank">
+  <a href="mailto:sincero.mayara@gmail.com?subject=Email%20via%20GitHub&body=Corpo%20do%20E-mail" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
 </a>
 </div>
